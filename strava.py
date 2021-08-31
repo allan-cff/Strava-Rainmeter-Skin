@@ -1,4 +1,5 @@
 import requests
+import datetime
 
 tokens = open("tokens.txt", "r")
 ATHLETE = tokens.readline().rstrip()
