@@ -7,4 +7,4 @@ Setup explained in the wiki
 
 Sample preview :
 
-![alt text](https://github.com/allan-cff/Strava-Rainmeter-Skin/blob/preview.png?raw=true)
+![Preview image](https://raw.githubusercontent.com/allan-cff/Strava-Rainmeter-Skin/main/preview.png)
